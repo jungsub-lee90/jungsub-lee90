@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->프로필 수정
-<img src="https://img.shields.io/badge/4chan?style=for-the-badge&logo=4chan&logoColor=#006600"/>
+<img src="https://img.shields.io/badge/#006600?style=for-the-badge&logo=4chan&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungsub-lee90&show_icons=true&theme=radical)
