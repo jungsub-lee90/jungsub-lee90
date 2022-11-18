@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->프로필 수정
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/?style=for-the-badge&logo=4chan&logoColor=#006600"/></a>
+<img src="https://img.shields.io/badge/?style=for-the-badge&logo=4chan&logoColor=#006600"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
